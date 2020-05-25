@@ -1,4 +1,4 @@
-# sum calculator made in html
- sum calculator made in html
+# sum calculator made in HTML
+ sum calculator made in HTML
  
- calculadora de soma feita em HTL 
+ calculadora de soma feita em HTML
